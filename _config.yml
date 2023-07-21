@@ -37,7 +37,7 @@ ghub:
 
 
 # Place a banner image in assets/images and give its name here.
-banner: valencia_5184_1728.jpg 
+banner: valencia_5184_1296.jpg 
 
 conference:
   full_name: Artificial Intelligence and Statistics
@@ -48,7 +48,7 @@ conference:
   # set to True to hide tentative speakers
   hide_tentative: true 
   # Place an image of venue in assets/images and give its name here
-  image: conference-venue.png
+  image: valencia_5184_1296.jpg
   proceedings:
     # When proceedings are published add url here.
     url:      
