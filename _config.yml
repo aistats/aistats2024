@@ -135,32 +135,32 @@ conference:
       given: Theofanis
       url: https://karaletsos.com/
       institute: Insitro
-  # If there's a local chair, or a general chair, you can add them here.
-  - type: Local Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Your Publication Chair handles processing of proceedings.      
-  - type: Publication Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # Publicity Chairs often handle websites, social media etc.      
-  - type: Publicity Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
-  # D&I Chairs look after initiatives to ensure an inclusive conference      
-  - type: D&I Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
+  # # If there's a local chair, or a general chair, you can add them here.
+  # - type: Local Chair
+  #   people:
+  #   - family: 
+  #     given: 
+  #     url: 
+  #     institute:
+  # # Your Publication Chair handles processing of proceedings.      
+  # - type: Publication Chair
+  #   people:
+  #   - family: 
+  #     given: 
+  #     url: 
+  #     institute:
+  # # Publicity Chairs often handle websites, social media etc.      
+  # - type: Publicity Chair
+  #   people:
+  #   - family: 
+  #     given: 
+  #     url: 
+  #     institute:
+  # # D&I Chairs look after initiatives to ensure an inclusive conference      
+  # - type: D&I Chair
+  #   people:
+  #   - family: 
+  #     given: 
+  #     url: 
+  #     institute:
   
