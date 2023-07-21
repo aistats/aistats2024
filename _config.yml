@@ -135,6 +135,13 @@ conference:
       given: Gavin
       url: https://gavinkerrigan.github.io/
       institute: University of California, Irvine
+  # Sponsorship chairs handle bringing in money from sponsors.      
+  - type: Sponsorship Chair
+    people:
+    - family: Karaletsos
+      given: Theofanis
+      url: https://karaletsos.com/
+      institute: Insitro
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
@@ -156,10 +163,4 @@ conference:
       given: 
       url: 
       institute:
-  # Sponsorship chairs handle bringing in money from sponsors.      
-  - type: Sponsorship Chair
-    people:
-    - family: Karaletsos
-      given: Theofanis
-      url: https://karaletsos.com/
-      institute: Insitro
+  
