@@ -1,8 +1,8 @@
 # Site settings
 title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of the AISTATS 20XX conference.
-baseurl: "/aistats20XX" # the subpath of your site, e.g. /blog/
+  This is the website of the AISTATS 2024 conference.
+baseurl: "/aistats2024" # the subpath of your site, e.g. /blog/
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -29,7 +29,7 @@ style: aistats
 
 ghub:
   edit: true
-  repository: aistats20XX
+  repository: aistats2024
 
 
 # Place a banner image in assets/images and give its name here.
@@ -64,7 +64,7 @@ conference:
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 20XX
+  - 2024
   -
   # Give the submission site details here.
   submission:
@@ -95,17 +95,24 @@ conference:
       date:
   # List program chairs here.      
   chairs:
+  - type: General Chair
+    people:
+    - family: Dasgupta
+      given: Sanjoy
+      # Give their personal web page.  
+      url: https://cseweb.ucsd.edu/~dasgupta/
+      institute: University of California, San Diego
   - type: Program Chairs
     people:
-    - family: 
-      given:
+    - family: Mandt
+      given: Stephan
       # Give their personal web page.  
-      url: 
-      institute: 
-    - family: 
-      given: 
-      url: 
-      institute:
+      url: http://www.stephanmandt.com/
+      institute: University of California, Irvine
+    - family: Li
+      given: Yingzhen
+      url: http://yingzhenli.net/
+      institute: Imperial College London
   # If there's a local chair, or a general chair, you can add them here.
   - type: Local Chair
     people:
@@ -116,10 +123,14 @@ conference:
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
-    - family: 
-      given: 
-      url: 
-      institute:
+    - family: Shi
+      given: Jiaxin
+      url: https://jiaxins.io
+      institute: Google DeepMind
+    - family: Kerrigan
+      given: Gavin
+      url: https://gavinkerrigan.github.io/
+      institute: University of California, Irvine
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
@@ -144,7 +155,7 @@ conference:
   # Sponsorship chairs handle bringing in money from sponsors.      
   - type: Sponsorship Chair
     people:
-    - family: 
-      given: 
-      url: 
-      institute: 
+    - family: Karaletsos
+      given: Theofanis
+      url: https://karaletsos.com/
+      institute: Insitro
