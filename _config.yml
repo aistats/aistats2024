@@ -3,6 +3,10 @@ title: Artificial Intelligence and Statistics Conference
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of the AISTATS 2024 conference.
 baseurl: "/aistats2024" # the subpath of your site, e.g. /blog/
+timezone: EST
+
+# Title that appears in page header
+banner_title: Artificial Intelligence and Statistics 2024
 
 # If you want to create a twitter account for your conference include
 # twitter name here
@@ -13,7 +17,7 @@ github_username:  aistats
 author:
   name: AISTATS
   # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
-  email: 
+  email: aistats2024conference@gmail.com
 comments: false
 
 # Build settings
@@ -24,7 +28,7 @@ plugins:
 - jekyll-remote-theme
 # change encoding for the generated output files to utf-8
 encoding: utf-8
-remote_theme: lawrennd/proceedings
+remote_theme: aistats/jekyll-theme
 style: aistats
 
 ghub:
