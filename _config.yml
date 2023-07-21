@@ -52,19 +52,19 @@ conference:
   # Give details of the room in the venue here.  
   room:
   # Set the name of the venue (e.g. Caribe Hilton Hotel)  
-  venue:
+  venue: TBD
   # Give the url of the venue here.  
   venue_url:
   # Give the conference location in the form City, Country here.
-  location: 
-  year: 20XX
+  location: Valencia, Spain.
+  year: 2024
   # Give the instance of the conference here (e.g. 24th)
   instance:
   # Styling for AISTATS is "International Conference"  
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - 2024
+  - Spring 2024
   -
   # Give the submission site details here.
   submission:
