@@ -117,13 +117,6 @@ conference:
       given: Yingzhen
       url: http://yingzhenli.net/
       institute: Imperial College London
-  # If there's a local chair, or a general chair, you can add them here.
-  - type: Local Chair
-    people:
-    - family: 
-      given: 
-      url: 
-      institute:
   # You might want Workflow Chair(s) to assist with your submission system and the review process.     
   - type: Workflow Chairs
     people:
@@ -142,6 +135,13 @@ conference:
       given: Theofanis
       url: https://karaletsos.com/
       institute: Insitro
+  # If there's a local chair, or a general chair, you can add them here.
+  - type: Local Chair
+    people:
+    - family: 
+      given: 
+      url: 
+      institute:
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
