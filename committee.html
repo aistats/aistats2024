@@ -1,7 +1,28 @@
 ---
-title: Committees
-layout: committee
+title: Committee
+layout: default
 weight: 4
 ---
 
+<h1>{{ site.conference.name }} {{ site.conference.year }} Organizing Committee</h1>
+
+{%if site.author.email %}General inquiries should be sent to {{ site.author.email }}.{%endif%}
+<br>
+<br>
+
+{%- if site.conference.chairs -%}
+{%- for chair in site.conference.chairs -%}
+  {%- include listchairs.html header=header -%}
+{%- endfor -%}
+{%- endif -%}
+{%- if include.program_committee -%}
+{%-if site.data.program_committee-%}
+<{{ header }}>Program Committee</{{ header }}>
+<ul>
+  {% for person in site.data.program_committee %}
+  {%- include listperson.html prefix='<li>' postfix='</li>' separator='' details=true -%}
+  {%endfor%}
+</ul>
+{%- endif -%}
+{%- endif -%}
 <!-- List your Senior Program Committee Members here, the Program chairs etc are auto-included by Jekyll --!>
