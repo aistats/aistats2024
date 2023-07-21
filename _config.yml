@@ -16,7 +16,7 @@ github_username:  aistats
 
 author:
   name: AISTATS
-  # YOu might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
+  # You might want to create an email for handling conference queries, e.g. aistats20XX@gmail.com. If you do, you can enter it here.
   email: aistats2024conference@gmail.com
 comments: false
 
@@ -73,7 +73,7 @@ conference:
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: 
+    show: false
     # The URL of the submission site.
     url: 
     # The name of the submission site (e.g. Microsoft CMT Website)
