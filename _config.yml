@@ -10,7 +10,7 @@ banner_title: Artificial Intelligence and Statistics 2024
 
 # If you want to create a twitter account for your conference include
 # twitter name here
-twitter_username: 
+twitter_username: aistats_conf
 
 github_username:  aistats
 
@@ -68,8 +68,9 @@ conference:
   styling: International Conference on
   # Give the individual days that the conference will be held on here.
   dates:
-  - Spring 2024
-  -
+  - May 2 2024
+  - May 3 2024
+  - May 4 2024
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
@@ -80,23 +81,32 @@ conference:
     name: 
   deadlines:
     # Fill in the key dates as below.
-    - name: Submission server open
+    - name: Abstract deadline
       type: submission
-      date: 
+      text: 6 October 2023 (Anywhere on Earth)
+      date: 6 October 2023
     - name: Paper submission deadline
       type: submission
-      time: 
-    - name: Author response period starts
-      date: 
-    - name: Author response period ends
-      time:
+      text: 13 October 2023 (Anywhere on Earth)
+      date: 13 October 2023
+    - name: Appendix submission deadline
+      type: submission
+      text: 20 October 2023
+      date: 20 October 2023
+      hide: True
+    - name: Reviews released
+      text: 27 November 2024
+      date: 27 November 2024
+      hide: True
+    - name: Author rebuttals due
+      type: submission
+      text: 5 December 2024 (Anywhere on Earth)
+      date: 5 December 2024
+      hide: True
     - name: Paper decision notifications
-      date: 
       type: decision
-    - name: Deadline for camera-ready papers
-      time: 
-    - name: Registration deadline
-      date:
+      text: 19 January 2024
+      date: 19 January 2024
   # List program chairs here.      
   chairs:
   - type: General Chair

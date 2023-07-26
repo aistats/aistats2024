@@ -4,7 +4,7 @@ layout: default
 weight: 1
 ---
 
-The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on April, 2024. This conference will be held at Valencia, Spain as an in-person event.
+The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) will be held on May 2nd - May 4th, 2024. This conference will be held in Valencia, Spain as an in-person event.
 
 # Organizing Committee
 
