@@ -93,16 +93,13 @@ conference:
       type: submission
       text: 20 October 2023
       date: 20 October 2023
-      hide: True
     - name: Reviews released
       text: 27 November 2024
       date: 27 November 2024
-      hide: True
     - name: Author rebuttals due
       type: submission
       text: 5 December 2024 (Anywhere on Earth)
       date: 5 December 2024
-      hide: True
     - name: Paper decision notifications
       type: decision
       text: 19 January 2024
@@ -152,13 +149,13 @@ conference:
   #     given: 
   #     url: 
   #     institute:
-  # # Your Publication Chair handles processing of proceedings.      
-  # - type: Publication Chair
-  #   people:
-  #   - family: 
-  #     given: 
-  #     url: 
-  #     institute:
+  # Your Publication Chair handles processing of proceedings.      
+  - type: Publication Chair
+    people:
+    - family: Burroni
+      given: Javier
+      url: https://jburroni.github.io/
+      institute: University of Massachusetts, Amherst
   # # Publicity Chairs often handle websites, social media etc.      
   # - type: Publicity Chair
   #   people:
