@@ -23,11 +23,12 @@ The proceedings track is the standard AISTATS paper submission track. Papers wil
 
 Solicited topics include, but are not limited to:
 
-* Machine learning methods and algorithms (classification, regression, unsupervised and semi-supervised learning, clustering, logic programming, ...) 
+* Machine learning methods and algorithms (classification, regression, unsupervised and semi-supervised learning, clustering, logic programming, ...)
 * Probabilistic methods (Bayesian methods, approximate inference, density estimation, tractable probabilistic models, probabilistic programming, ...)
-* Theory of machine learning and statistics (optimization, computational learning theory, decision theory and bandits, game theory, frequentist statistics,  information theory, ...) 
-* Deep learning (theory, architectures, reinforcement learning, generative models, optimization for neural networks, ...)
-* Ethical and trustworthy machine learning (causality, fairness, interpretability, privacy, robustness, safety, ...) 
+* Theory of machine learning and statistics (optimization, computational learning theory, decision theory, online leaning and bandits, game theory, frequentist statistics, information theory, ...)
+* Deep learning (theory, architectures, generative models, optimization for neural networks, ...)
+* Reinforcement learning (theory of RL, offline/online RL, deep RL, multi-agent RL, ...)
+* Ethical and trustworthy machine learning (causality, fairness, interpretability, privacy, robustness, safety, ...)
 * Applications of machine learning and statistics (including natural language, signal processing, computer vision, physical sciences, social sciences, sustainability and climate, healthcare, ...)
 
 
