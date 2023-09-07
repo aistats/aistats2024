@@ -12,8 +12,6 @@ The conference CMT site is now open for submissions:
 
 [{{ site.conference.submission.url }}]({{ site.conference.submission.url }})
 
-Please see the [Call for Papers](/call-for-papers.html) for instructions.
-
 # Organizing Committee
 
 See our full organizing committee [here](/committee.html).
