@@ -74,11 +74,11 @@ conference:
   # Give the submission site details here.
   submission:
     # Whether to show the submission site.
-    show: false
+    show: true
     # The URL of the submission site.
-    url: 
+    url: https://cmt3.research.microsoft.com/AISTATS2024/
     # The name of the submission site (e.g. Microsoft CMT Website)
-    name: 
+    name: Microsoft CMT
   deadlines:
     # Fill in the key dates as below.
     - name: Abstract deadline
