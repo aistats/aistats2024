@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Code of Conduct
 layout: default
 weight: 2
 hide: false
