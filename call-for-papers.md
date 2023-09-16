@@ -5,14 +5,14 @@ weight: 2
 hide: false
 ---
 
-## Call for Papers
+# Call for Papers
 
 We invite submissions to the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), and welcome paper submissions on artificial intelligence, machine learning, statistics, and related areas.
 
 AISTATS is an interdisciplinary gathering of researchers at the intersection of computer science, artificial intelligence, machine learning, statistics, and related areas. Since its inception in 1985, the primary goal of AISTATS has been to broaden research in these fields by promoting the exchange of ideas among them. The conference is committed to diversity in all its forms, and encourages submissions from authors of underrepresented groups and geographies in ML/AI.
 
 
-### Key dates
+## Key dates
 
 {% include listdates.html %}
 
@@ -75,6 +75,20 @@ Reviews will be visible to area chairs, program chairs, and workflow chairs thro
 
 Author names will be visible to program chairs and workflow chairs. Reviewers and area chairs will not know the author names at any stage of the process. Reviewer names are visible to the area chairs, workflow chairs, and program chairs.
 
+## Use of Large Language Models and Image Deep Generative Models
+
+Regarding the use of Large Language Models (LLMs like GPT-4) and/or large image deep generative models (image DGMs such as StableDiffusion) for AISTATS submissions:
+
+LLMs and image DGMs are not allowed for the following use cases:
+
+* Fully automatically generating text of more than one page, unless the produced text is presented as a part of the paper’s experimental analysis.
+* Generating quantitative figures (such as learning curves), unless the produced images are presented as a part of the paper’s experimental analysis.
+
+Other potential use cases of LLMs such as polishing text (e.g., paragraph-wise, prompted by a manually-written paragraph of content) are not banned.
+
+Even with the usage of LLMs and DGMs, it is still the authors’ responsibility to ensure the quality, correctness, and originality of their submission(s). We ask the authors to respect the academic publishing process and ensure their submission(s) do not constitute scientific misconduct (e.g., plagiarism, deceptive figures, dual submissions, etc.).
+
+If a paper with LLM-generated text and/or large DGM-generated images (except for experimental analysis purposes) has been accepted to the conference, we will require the authors to disclose this information to the Program Chairs before the camera-ready submission. If the Program Chairs are in doubt about potential scientific misconduct, then the submission(s) in question will be tested through checks for e.g,. plagiarism and/or other forms of misconduct. Those submissions violating AISTATS submission policies will be rejected from publication even after the reviewing process.
 
 _Stephan Mandt and Yingzhen Li_\
 AISTATS 2024 Program Chairs
