@@ -65,9 +65,9 @@ Below is a list of tasks (and the detailed explanations) that an AC is expected 
     - Ask reviewers to rewrite and resubmit their review if appropriate.
     - Please ensure reviewers provide their comments with evidence. E.g., if a reviewer selects “combinatorial approach” in their answer to the question regarding novelty, ensure that in the next question that reviewer has provided the corresponding references to justify this choice.
 
-5. Handle author feedbacl
+5. Handle author feedback
 
-    - Make sure the submitted author feedback document adheres to the instructions of the [provided template](http://aistats.org/aistats2024/AISTATS2024PaperPack.zip).
+    - Make sure the submitted author feedback document adheres to the instructions of the [provided template](http://aistats.org/aistats2024/AISTATS2024PaperPack.zip) ([mirror](https://drive.google.com/file/d/1AfIByw666dXys7-NtuGD4IxLj2pHkvyC/view?usp=drive_link)).
     - Check if the reproduction checklist is submitted if applicable. Note that availability of this information is not used in acceptance decisions, just remind the authors to attach the reproduction checklist in camera ready if applicable. 
     - Read confidential comments from both reviewers and authors. 
 

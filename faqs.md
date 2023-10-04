@@ -55,7 +55,7 @@ It is not mandatory, but authors are encouraged to discuss the societal implicat
 
 
 14. **Is there a reproducibility checklist that my paper needs to comply with?**
-This year we ask the authors to include a reproducibility checklist in the main paper after references. The checklist does not count towards the 8 page main limit for the submission (or 9 page limit for camera ready). See the submission template (sample_paper.tex in the [AISTATS2024 Paper Pack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip)) for the checklist details.
+This year we ask the authors to include a reproducibility checklist in the main paper after references. The checklist does not count towards the 8 page main limit for the submission (or 9 page limit for camera ready). See the submission template (sample_paper.tex in the [AISTATS2024 Paper Pack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip) ([mirror](https://drive.google.com/file/d/1kjHySEhhKvlp9RhKnof1hJPdR7fhpcFt/view?usp=sharing))) for the checklist details.
 
 15. **Will my submission be desk-rejected if not including the reproducibility checklist?**
 No, but we still strongly suggest the authors include the checklist in submission. If not included, the authors will be asked to submit the checklist during the author feedback period. The checklist is required for the camera ready version of an accepted paper.
@@ -65,7 +65,7 @@ No, but we still strongly suggest the authors include the checklist in submissio
 No, this information will not be visible to reviewers or ACs and will not be taken into account in the paper decisions. It will only be used for statistical purposes.
 
 17. **How can we obtain the citations (references) of our paper in the (Author, Year) format?**
-One option to achieve that goal is to use the latex package `natbib`. For that, you may uncomment lines 19-21 and 24 at the beginning of your main TEX file (sample_paper.tex in the [AISTATS2024 Paper Pack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip). In other words, you can use the following:
+One option to achieve that goal is to use the latex package `natbib`. For that, you may uncomment lines 19-21 and 24 at the beginning of your main TEX file (sample_paper.tex in the [AISTATS2024 Paper Pack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip) ([mirror](https://drive.google.com/file/d/1kjHySEhhKvlp9RhKnof1hJPdR7fhpcFt/view?usp=sharing))). In other words, you can use the following:
 
 ```
 % If you use natbib package, activate the following three lines:
@@ -92,5 +92,5 @@ Note that, when using `natbib`, you can add or remove the parentheses as follows
 
 Authors will be given the opportunity to respond to their reviews before decisions are made. This is to enable them to address misunderstandings, point out parts of their submissions that were overlooked, or disagree with the reviewers’ assessments. In previous years, some authors felt that their responses were ignored. As a reviewer, it is your responsibility to read and (if appropriate) respond to each author’s response. It is not fair to ignore any author response, even for submissions that you think should be rejected. Although it is possible that an author’s response will not change your assessment of a submission, you must convey to the authors that you have carefully considered their comments. As you read each author’s response, keep an open mind. Have you overlooked something? Please update each review to indicate that you have read the author’s response and whether you agree or disagree with it. You should be more specific than “I have read the author’s response and my opinion remains the same.” If that is the case, you should explain why it remains the same, what the author’s response failed to address, etc.
 
-LaTeX files for writing a response to reviewers are available on the AISTATS 2024 homepage ([click here to download the files]({{ site.url }}/aistats2024/AISTATS2024_Author_Response_Pack.zip)). Author responses are due Tuesday, December 5, 2023 (Anywhere on Earth).
+LaTeX files for writing a response to reviewers are available on the AISTATS 2024 homepage ([click here to download the files]({{ site.url }}/aistats2024/AISTATS2024_Author_Response_Pack.zip) ([mirror](https://drive.google.com/file/d/1AfIByw666dXys7-NtuGD4IxLj2pHkvyC/view?usp=drive_link))). Author responses are due Tuesday, December 5, 2023 (Anywhere on Earth).
 

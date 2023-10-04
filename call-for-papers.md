@@ -43,7 +43,7 @@ Submissions are limited to 8 pages excluding references using the LaTeX style fi
 
 Submissions are accepted at <https://cmt3.research.microsoft.com/AISTATS2024/>.
 
-Formatting information (including LaTeX style files) is available in the [AISTATS2024PaperPack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip). We do not support submission in preparation systems other than LaTeX. Please do not modify the layout given by the style file. If you have questions about the style file or its usage, please contact the publications chair or the program chairs via <aistats2024conference@gmail.com>.
+Formatting information (including LaTeX style files) is available in the [AISTATS2024PaperPack]({{ site.url }}/aistats2024/AISTATS2024PaperPack.zip) ([mirror](https://drive.google.com/file/d/1kjHySEhhKvlp9RhKnof1hJPdR7fhpcFt/view?usp=sharing)). We do not support submission in preparation systems other than LaTeX. Please do not modify the layout given by the style file. If you have questions about the style file or its usage, please contact the publications chair or the program chairs via <aistats2024conference@gmail.com>.
 
 
 ## Reviewer Nomination
