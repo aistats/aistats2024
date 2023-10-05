@@ -143,12 +143,12 @@ conference:
       url: https://karaletsos.com/
       institute: Insitro
   # # If there's a local chair, or a general chair, you can add them here.
-  # - type: Local Chair
-  #   people:
-  #   - family: 
-  #     given: 
-  #     url: 
-  #     institute:
+  - type: Local Chair
+    people:
+    - family: Fernández-Torres
+      given: Miguel-Ángel
+      url: https://miguelangelft.github.io/
+      institute: University of Valencia
   # Your Publication Chair handles processing of proceedings.      
   - type: Publication Chair
     people:
