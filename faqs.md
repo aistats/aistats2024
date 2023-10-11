@@ -21,7 +21,7 @@ Yes, submission to arXiv is allowed. However, keep anonymity in the AISTATS subm
 We strongly discourage advertising the preprint on social media or in the press while under submission to AISTATS. Under no circumstances should your work be explicitly identified as AISTATS submission at any time during the review period, i.e., from the time you submit the abstract to the communication of the accept/reject decisions.
 
 5. **Can the author list be changed?**
-You can change the author list until the deadline of full paper submission (Friday, October 13th 2023 AoE). After this point, only changes to the author order are allowed, but new authors won’t be added.
+You can change the author list until the deadline of full paper submission (Monday, October 16th 2023 AoE). After this point, only changes to the author order are allowed, but new authors won’t be added.
 
 6. **Can I withdraw my submission?**
 Yes. You can withdraw your submission at any point in the reviewing process. For statistical purposes, we will count a submission as “rejected” if it is withdrawn after reviews have been made available to authors.
