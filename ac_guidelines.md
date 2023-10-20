@@ -22,15 +22,15 @@ This page provides guidelines for Area Chairs (ACs) for AISTATS 2023. The guidel
 
 ## Important Dates
 
-Dates may be subject to change.
+Dates may be subject to change. All deadlines are AoE timezone.
 
-  - AC bid on papers: **Sat, Oct 7 2023 - Fri, Oct 13 2023**
-  - Reviewers bid on papers: **Sat, Oct 14 2023 – Wed, Oct 18 2023**
-  - Reviewer assignment adjustments: **Thur, Oct 19 2023 - Mon, Oct 23 2023**
+  - AC bid on papers: **Sat, Oct 7 2023 - Sun, Oct 22 2023**
+  - Reviewers bid on papers: **Sat, Oct 14 2023 – Sun, Oct 22 2023**
+  - Reviewer assignment adjustments: **Mon, Oct 23 2023 - Sun, Oct 29 2023**
   - Reviewing period: **Mon, Oct 30 2023 - Fri, Nov 17 2023**
   - Checking and soliciting emergency reviews: **Fri, Nov 17 2023 - Thur, Nov 23 2023**
   - Reviews released to authors: **Mon, Nov 27 2023**
-  - Author feedback: **Fri, Nov 24 2023 - Tue, Dec 5 2023**
+  - Author feedback: **Mon, Nov 27 2023 - Tue, Dec 5 2023**
   - Reviewer-AC Discussions: **Wed, Dec 6 2023 - Wed, Dec 13 2023**
   - AC-SAC discussions: **Thur, Dec 14 2023 - Wed, Dec 20 2023**
   - AC meta reviews due: **Wed, Dec 20 2023**
