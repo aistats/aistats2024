@@ -12,7 +12,7 @@ Registration is now open on the conference virtual site: [https://virtual.aistat
 
 **The deadline for early registration is Mar 25, 2024**
 
-# **Updated Deadlines**
+# Updated Deadlines
 
 The AISTATS deadline has been **postponed** to October 16 (Anywhere on Earth) in support of AISTATS community members affected by the events in the Middle East. The Appendix deadline will be postponed to October 23.
 
