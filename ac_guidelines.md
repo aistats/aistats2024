@@ -31,8 +31,8 @@ Dates may be subject to change. All deadlines are AoE timezone.
   - Checking and soliciting emergency reviews: **Fri, Nov 17 2023 - Thur, Nov 23 2023**
   - Reviews released to authors: **Mon, Nov 27 2023**
   - Author feedback: **Mon, Nov 27 2023 - Tue, Dec 5 2023**
-  - Reviewer-AC Discussions: **Wed, Dec 6 2023 - Wed, Dec 13 2023**
-  - AC-SAC discussions: **Thur, Dec 14 2023 - Wed, Dec 20 2023**
+  - Reviewer-AC Discussions: **Wed, Dec 6 2023 - Fri, Dec 15 2023**
+  - AC-SAC discussions: **Fri, Dec 15 2023 - Wed, Dec 20 2023**
   - AC meta reviews due: **Wed, Dec 20 2023**
   - SAC decisions: **Mon, Jan 8 2024**
   - Author Notifications: **Fri, Jan 19 2024**
