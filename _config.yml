@@ -104,6 +104,9 @@ conference:
       type: decision
       text: 19 January 2024
       date: 19 January 2024
+    - name: Early registration deadline
+      text: 25 March 2024 (01:00 AM UTC)
+      date: 25 March 2024
   # List program chairs here.      
   chairs:
   - type: General Chair
