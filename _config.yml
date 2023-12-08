@@ -166,11 +166,15 @@ conference:
   #     given: 
   #     url: 
   #     institute:
-  # # D&I Chairs look after initiatives to ensure an inclusive conference      
-  # - type: D&I Chair
-  #   people:
-  #   - family: 
-  #     given: 
-  #     url: 
-  #     institute:
+  # D&I Chairs look after initiatives to ensure an inclusive conference      
+  - type: D&I Chair
+    people:
+    - family: Maughan
+      given: Krystal
+      url: https://kammitama5.github.io/about/
+      institute: University of Vermont
+    - family: Burns
+      given: Tom
+      url: https://tfburns.com/
+      institute: Brown University
   
