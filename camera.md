@@ -64,7 +64,7 @@ instructions:
    must now be submitted as a **single PDF** instead of two separate files.
 4. Do not change the style file, including spacing. If you have questions about
    the style file or its usage, please contact the 
-   [Publications Chair](aistats2024@gmail.com).
+   [Publications Chair](https://aistats.org/aistats2024/committee.html).
 5. Your paper must use **US letter** format (default in the style file). Do 
    **not** change this to A4 paper format.
 6. You must use the fonts as defined in the style file. In addition, please **avoid using Type 3 fonts** anywhere in your document, including in embedded images. See <https://www.ics.uci.edu/~chenli/pdf-font-types/index.html> for more information.
