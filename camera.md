@@ -84,10 +84,11 @@ instructions:
 11. The reference section should be titled "References". The references listed
     at the end of the paper can follow any style as long as it is used
     consistently.
-12. Please consider the following colorblind-friendly guidelines for
+12. The reproducibility checklist should be placed after the "References" section and titled "Checklist".
+13. Please consider the following colorblind-friendly guidelines for
     introducing color in your figures and plots:
     <https://usabilla.com/blog/how-to-design-for-color-blindness>.
-13. Further formatting instructions can be found in the `sample_paper.pdf` file
+14. Further formatting instructions can be found in the `sample_paper.pdf` file
     available at
     <http://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>.
 
