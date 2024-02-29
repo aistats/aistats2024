@@ -12,7 +12,8 @@ hide: false
 Please take some time to read these instructions **in full**. For your camera-ready paper to be included in the proceedings, it is **essential** that you follow the instructions contained on this page.
 
 ## TL;DR
-* Camera-ready deadline is **Friday, March 1st,
+* The camera-ready deadline is ~~Friday, March 1st,
+2024~~ **Friday, March 8th,
 2024, Anywhere on Earth**.
 * You have to use the **new LaTeX style file** available at: <https://aistats.org/aistats2024/AISTATS2024CameraReadyPaperPack.zip>
 * You have to **upload one PDF file with the de-anonymized paper** (mandatory), **one PDF filled and signed copyright form** (mandatory), and **one URL link to a GitHub repository with code/datasets** (optional).  
@@ -23,7 +24,7 @@ Please read the complete details below.
 ## Deadline
 
 
-The deadline for the camera-ready submission is **Friday, March 1st,
+The deadline for the camera-ready submission is ~~Friday, March 1st~~ **Friday, March 8th**, 
 2024, Anywhere on Earth**. This is a strict deadline; no extensions to the deadline will be granted in any cases. If you miss the deadline, your paper will not be included in the proceedings. We strongly recommend submitting your camera-ready version well in advance of this deadline.
 
 
