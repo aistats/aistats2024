@@ -24,7 +24,7 @@ Please read the complete details below.
 ## Deadline
 
 
-The deadline for the camera-ready submission is ~~Friday, March 1st~~ **Friday, March 8th**, 
+The deadline for the camera-ready submission is ~~Friday, March 1st~~ **Friday, March 8th, 
 2024, Anywhere on Earth**. This is a strict deadline; no extensions to the deadline will be granted in any cases. If you miss the deadline, your paper will not be included in the proceedings. We strongly recommend submitting your camera-ready version well in advance of this deadline.
 
 
